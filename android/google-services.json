@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876015324611",
+    "project_id": "aquarizz-9687c",
+    "storage_bucket": "aquarizz-9687c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876015324611:android:a03801e44441f03fea0176",
+        "android_client_info": {
+          "package_name": "com.aquarizz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBDZ5kUqMraeDZ_Z2Xc9bPLA1XkPF_3m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
